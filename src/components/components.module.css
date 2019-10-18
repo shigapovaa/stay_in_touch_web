@@ -1,0 +1,38 @@
+/* Header */
+.headerText {
+  color: #d3d3d3;
+  font-style: italic;
+}
+
+.header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  background: #fff !important;
+  padding: 0 8px !important;
+}
+
+/* Side menu */
+.sider {
+  border-right: 1px solid rgba(0, 0, 0, 0.125); 
+}
+
+.menu {
+  border: none !important;
+}
+
+.logo {
+  height: 64px;
+  font-size: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.menuItem {
+  margin: 0 !important;
+  padding: 0 16px 8px 24px !important;
+}
+
